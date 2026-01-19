@@ -1,4 +1,6 @@
+# ============================================
 # Exercise 2: Math Quiz with Exception Handling
+# ============================================
 # This program generates two random numbers and asks the user to add them.
 # It also handles invalid input using try and except.
 

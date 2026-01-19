@@ -1,6 +1,6 @@
+# ============================================
 # Exercise 1: File to List Converter
-# ---------------------------------
-# Purpose:
+# ============================================
 # This script reads content from a text file and converts each line
 # into an element in a Python list.
 # The goal is to practice basic file handling and error handling.
