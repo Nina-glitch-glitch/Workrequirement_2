@@ -11,5 +11,10 @@ This repository contains three small Python exercises for the Backend Essentials
    `python src/<script_name>.py`
 
 ## Reflection
-For this assignment, I selected exercises that matched my current level and focused on understanding how the code works rather than only making it run. I used the course material and Scrimba videos to better understand why specific statements and structures are used. By writing comments and organizing the repository, I became more aware of how documentation and version control can support shared understanding and make collaboration easier.
+This project shows how good development practices help create shared understanding and shared code ownership in a team. Writing documentation such as a README and comments in the code makes it easier for others to understand the project and quickly get started.
+
+Using version control with Git makes changes traceable over time and reduces the risk of conflicts when several people work on the same codebase. Practices like diagrams, automated testing, pair or mob programming, and peer reviews help teams communicate ideas, detect errors earlier, and share knowledge.
+
+Together, these practices make it easier for team members to work confidently with any part of the code and reduce dependency on a single developer.
+
 
